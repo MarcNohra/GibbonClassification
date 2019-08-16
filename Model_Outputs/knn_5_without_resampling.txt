@@ -1,0 +1,156 @@
+####### Fold:  0
+####### Reading testing data
+####### Reading training data
+######## Before resampling, num Positives (train):  874 / 38964
+######## Before resampling, num Positives (test):  210 / 9833
+####### Data saved
+####### Model fitting
+####### Model saved
+####### Model testing
+####### Threshold:  0.5
+[[9615    8]
+ [ 146   64]]
+TPR:  0.3047619047619048
+Precision:  0.8888888888888888
+F1 score:  0.4539007092198582
+####### Threshold:  0.65
+[[9615    8]
+ [ 146   64]]
+TPR:  0.3047619047619048
+Precision:  0.8888888888888888
+F1 score:  0.4539007092198582
+####### Threshold:  0.75
+[[9615    8]
+ [ 146   64]]
+TPR:  0.3047619047619048
+Precision:  0.8888888888888888
+F1 score:  0.4539007092198582
+####### Fold:  1
+####### Reading testing data
+####### Reading training data
+######## Before resampling, num Positives (train):  857 / 39140
+######## Before resampling, num Positives (test):  227 / 9657
+####### Data saved
+####### Model fitting
+####### Model saved
+####### Model testing
+####### Threshold:  0.5
+[[9425    5]
+ [ 144   83]]
+TPR:  0.3656387665198238
+Precision:  0.9431818181818182
+F1 score:  0.526984126984127
+####### Threshold:  0.65
+[[9425    5]
+ [ 144   83]]
+TPR:  0.3656387665198238
+Precision:  0.9431818181818182
+F1 score:  0.526984126984127
+####### Threshold:  0.75
+[[9425    5]
+ [ 144   83]]
+TPR:  0.3656387665198238
+Precision:  0.9431818181818182
+F1 score:  0.526984126984127
+####### Fold:  2
+####### Reading testing data
+####### Reading training data
+######## Before resampling, num Positives (train):  858 / 39264
+######## Before resampling, num Positives (test):  226 / 9533
+####### Data saved
+####### Model fitting
+####### Model saved
+####### Model testing
+####### Threshold:  0.5
+[[9294   13]
+ [ 149   77]]
+TPR:  0.3407079646017699
+Precision:  0.8555555555555555
+F1 score:  0.4873417721518988
+####### Threshold:  0.65
+[[9294   13]
+ [ 149   77]]
+TPR:  0.3407079646017699
+Precision:  0.8555555555555555
+F1 score:  0.4873417721518988
+####### Threshold:  0.75
+[[9294   13]
+ [ 149   77]]
+TPR:  0.3407079646017699
+Precision:  0.8555555555555555
+F1 score:  0.4873417721518988
+####### Fold:  3
+####### Reading testing data
+####### Reading training data
+######## Before resampling, num Positives (train):  909 / 38942
+######## Before resampling, num Positives (test):  175 / 9855
+####### Data saved
+####### Model fitting
+####### Model saved
+####### Model testing
+####### Threshold:  0.5
+[[9669   11]
+ [ 119   56]]
+TPR:  0.32
+Precision:  0.835820895522388
+F1 score:  0.46280991735537186
+####### Threshold:  0.65
+[[9669   11]
+ [ 119   56]]
+TPR:  0.32
+Precision:  0.835820895522388
+F1 score:  0.46280991735537186
+####### Threshold:  0.75
+[[9669   11]
+ [ 119   56]]
+TPR:  0.32
+Precision:  0.835820895522388
+F1 score:  0.46280991735537186
+####### Fold:  4
+####### Reading testing data
+####### Reading training data
+######## Before resampling, num Positives (train):  850 / 39177
+######## Before resampling, num Positives (test):  234 / 9620
+####### Data saved
+####### Model fitting
+####### Model saved
+####### Model testing
+####### Threshold:  0.5
+[[9335   51]
+ [ 134  100]]
+TPR:  0.42735042735042733
+Precision:  0.6622516556291391
+F1 score:  0.5194805194805194
+####### Threshold:  0.65
+[[9335   51]
+ [ 134  100]]
+TPR:  0.42735042735042733
+Precision:  0.6622516556291391
+F1 score:  0.5194805194805194
+####### Threshold:  0.75
+[[9335   51]
+ [ 134  100]]
+TPR:  0.42735042735042733
+Precision:  0.6622516556291391
+F1 score:  0.5194805194805194
+[9.615e+03 8.000e+00 1.460e+02 6.400e+01 9.615e+03 8.000e+00 1.460e+02
+ 6.400e+01 9.615e+03 8.000e+00 1.460e+02 6.400e+01 9.425e+03 5.000e+00
+ 1.440e+02 8.300e+01 9.425e+03 5.000e+00 1.440e+02 8.300e+01 9.425e+03
+ 5.000e+00 1.440e+02 8.300e+01 9.294e+03 1.300e+01 1.490e+02 7.700e+01
+ 9.294e+03 1.300e+01 1.490e+02 7.700e+01 9.294e+03 1.300e+01 1.490e+02
+ 7.700e+01 9.669e+03 1.100e+01 1.190e+02 5.600e+01 9.669e+03 1.100e+01
+ 1.190e+02 5.600e+01 9.669e+03 1.100e+01 1.190e+02 5.600e+01 9.335e+03
+ 5.100e+01 1.340e+02 1.000e+02 9.335e+03 5.100e+01 1.340e+02 1.000e+02
+ 9.335e+03 5.100e+01 1.340e+02 1.000e+02]
+[0.3047619  0.3047619  0.3047619  0.36563877 0.36563877 0.36563877
+ 0.34070796 0.34070796 0.34070796 0.32       0.32       0.32
+ 0.42735043 0.42735043 0.42735043]
+[0.88888889 0.88888889 0.88888889 0.94318182 0.94318182 0.94318182
+ 0.85555556 0.85555556 0.85555556 0.8358209  0.8358209  0.8358209
+ 0.66225166 0.66225166 0.66225166]
+[0.45390071 0.45390071 0.45390071 0.52698413 0.52698413 0.52698413
+ 0.48734177 0.48734177 0.48734177 0.46280992 0.46280992 0.46280992
+ 0.51948052 0.51948052 0.51948052]
+AVG Recall:  0.3516918126467852
+AVG Precision:  0.8371397627555582
+AVG F1 Score:  0.4901034090383552

@@ -1,0 +1,83 @@
+####### Fold:  0
+####### Reading testing data
+####### Reading training data
+######## Before resampling, num Positives (train):  9160 / 47250
+######## Before resampling, num Positives (test):  210 / 9833
+####### Data saved
+####### Model fitting
+####### Model saved
+####### Model testing
+####### Threshold:  0.75
+[[9605   18]
+ [ 114   96]]
+TPR:  0.45714285714285713
+Precision:  0.8421052631578947
+F1 score:  0.5925925925925926
+####### Fold:  1
+####### Reading testing data
+####### Reading training data
+######## Before resampling, num Positives (train):  9143 / 47426
+######## Before resampling, num Positives (test):  227 / 9657
+####### Data saved
+####### Model fitting
+####### Model saved
+####### Model testing
+####### Threshold:  0.75
+[[9352   78]
+ [  70  157]]
+TPR:  0.6916299559471366
+Precision:  0.6680851063829787
+F1 score:  0.6796536796536797
+####### Fold:  2
+####### Reading testing data
+####### Reading training data
+######## Before resampling, num Positives (train):  9144 / 47550
+######## Before resampling, num Positives (test):  226 / 9533
+####### Data saved
+####### Model fitting
+####### Model saved
+####### Model testing
+####### Threshold:  0.75
+[[9293   14]
+ [ 112  114]]
+TPR:  0.504424778761062
+Precision:  0.890625
+F1 score:  0.6440677966101694
+####### Fold:  3
+####### Reading testing data
+####### Reading training data
+######## Before resampling, num Positives (train):  9195 / 47228
+######## Before resampling, num Positives (test):  175 / 9855
+####### Data saved
+####### Model fitting
+####### Model saved
+####### Model testing
+####### Threshold:  0.75
+[[9557  123]
+ [  54  121]]
+TPR:  0.6914285714285714
+Precision:  0.4959016393442623
+F1 score:  0.5775656324582339
+####### Fold:  4
+####### Reading testing data
+####### Reading training data
+######## Before resampling, num Positives (train):  9136 / 47463
+######## Before resampling, num Positives (test):  234 / 9620
+####### Data saved
+####### Model fitting
+####### Model saved
+####### Model testing
+####### Threshold:  0.75
+[[9365   21]
+ [  99  135]]
+TPR:  0.5769230769230769
+Precision:  0.8653846153846154
+F1 score:  0.6923076923076923
+[9605.   18.  114.   96. 9352.   78.   70.  157. 9293.   14.  112.  114.
+ 9557.  123.   54.  121. 9365.   21.   99.  135.]
+[0.45714286 0.69162996 0.50442478 0.69142857 0.57692308]
+[0.84210526 0.66808511 0.890625   0.49590164 0.86538462]
+[0.59259259 0.67965368 0.6440678  0.57756563 0.69230769]
+AVG Recall:  0.5843098480405408
+AVG Precision:  0.7524203248539502
+AVG F1 Score:  0.6372374787244736

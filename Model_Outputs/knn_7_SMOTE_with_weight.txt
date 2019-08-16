@@ -1,0 +1,167 @@
+####### Fold:  0
+####### Reading testing data
+####### Reading training data
+######## Before resampling, num Positives (train):  874 / 38964
+######## Before resampling, num Positives (test):  210 / 9833
+####### Smote_En
+######## After SMOTE, num Positives (train):  38085 / 76175
+######## After SMOTE, num Positives (test):  210 / 9833
+####### Data saved
+####### Model fitting
+####### Model saved
+####### Model testing
+####### Threshold:  0.5
+[[8882  741]
+ [  63  147]]
+TPR:  0.7
+Precision:  0.16554054054054054
+F1 score:  0.2677595628415301
+####### Threshold:  0.65
+[[8882  741]
+ [  63  147]]
+TPR:  0.7
+Precision:  0.16554054054054054
+F1 score:  0.2677595628415301
+####### Threshold:  0.75
+[[8882  741]
+ [  63  147]]
+TPR:  0.7
+Precision:  0.16554054054054054
+F1 score:  0.2677595628415301
+####### Fold:  1
+####### Reading testing data
+####### Reading training data
+######## Before resampling, num Positives (train):  857 / 39140
+######## Before resampling, num Positives (test):  227 / 9657
+####### Smote_En
+######## After SMOTE, num Positives (train):  38273 / 76556
+######## After SMOTE, num Positives (test):  227 / 9657
+####### Data saved
+####### Model fitting
+####### Model saved
+####### Model testing
+####### Threshold:  0.5
+[[8551  879]
+ [  46  181]]
+TPR:  0.7973568281938326
+Precision:  0.17075471698113207
+F1 score:  0.2812742812742813
+####### Threshold:  0.65
+[[8551  879]
+ [  46  181]]
+TPR:  0.7973568281938326
+Precision:  0.17075471698113207
+F1 score:  0.2812742812742813
+####### Threshold:  0.75
+[[8551  879]
+ [  46  181]]
+TPR:  0.7973568281938326
+Precision:  0.17075471698113207
+F1 score:  0.2812742812742813
+####### Fold:  2
+####### Reading testing data
+####### Reading training data
+######## Before resampling, num Positives (train):  858 / 39264
+######## Before resampling, num Positives (test):  226 / 9533
+####### Smote_En
+######## After SMOTE, num Positives (train):  38397 / 76803
+######## After SMOTE, num Positives (test):  226 / 9533
+####### Data saved
+####### Model fitting
+####### Model saved
+####### Model testing
+####### Threshold:  0.5
+[[8555  752]
+ [  72  154]]
+TPR:  0.6814159292035398
+Precision:  0.16997792494481237
+F1 score:  0.27208480565371024
+####### Threshold:  0.65
+[[8555  752]
+ [  72  154]]
+TPR:  0.6814159292035398
+Precision:  0.16997792494481237
+F1 score:  0.27208480565371024
+####### Threshold:  0.75
+[[8555  752]
+ [  72  154]]
+TPR:  0.6814159292035398
+Precision:  0.16997792494481237
+F1 score:  0.27208480565371024
+####### Fold:  3
+####### Reading testing data
+####### Reading training data
+######## Before resampling, num Positives (train):  909 / 38942
+######## Before resampling, num Positives (test):  175 / 9855
+####### Smote_En
+######## After SMOTE, num Positives (train):  38026 / 76059
+######## After SMOTE, num Positives (test):  175 / 9855
+####### Data saved
+####### Model fitting
+####### Model saved
+####### Model testing
+####### Threshold:  0.5
+[[8814  866]
+ [  46  129]]
+TPR:  0.7371428571428571
+Precision:  0.12964824120603016
+F1 score:  0.22051282051282053
+####### Threshold:  0.65
+[[8814  866]
+ [  46  129]]
+TPR:  0.7371428571428571
+Precision:  0.12964824120603016
+F1 score:  0.22051282051282053
+####### Threshold:  0.75
+[[8814  866]
+ [  46  129]]
+TPR:  0.7371428571428571
+Precision:  0.12964824120603016
+F1 score:  0.22051282051282053
+####### Fold:  4
+####### Reading testing data
+####### Reading training data
+######## Before resampling, num Positives (train):  850 / 39177
+######## Before resampling, num Positives (test):  234 / 9620
+####### Smote_En
+######## After SMOTE, num Positives (train):  38324 / 76651
+######## After SMOTE, num Positives (test):  234 / 9620
+####### Data saved
+####### Model fitting
+####### Model saved
+####### Model testing
+####### Threshold:  0.5
+[[8359 1027]
+ [  57  177]]
+TPR:  0.7564102564102564
+Precision:  0.14700996677740863
+F1 score:  0.24617524339360222
+####### Threshold:  0.65
+[[8359 1027]
+ [  57  177]]
+TPR:  0.7564102564102564
+Precision:  0.14700996677740863
+F1 score:  0.24617524339360222
+####### Threshold:  0.75
+[[8359 1027]
+ [  57  177]]
+TPR:  0.7564102564102564
+Precision:  0.14700996677740863
+F1 score:  0.24617524339360222
+[8882.  741.   63.  147. 8882.  741.   63.  147. 8882.  741.   63.  147.
+ 8551.  879.   46.  181. 8551.  879.   46.  181. 8551.  879.   46.  181.
+ 8555.  752.   72.  154. 8555.  752.   72.  154. 8555.  752.   72.  154.
+ 8814.  866.   46.  129. 8814.  866.   46.  129. 8814.  866.   46.  129.
+ 8359. 1027.   57.  177. 8359. 1027.   57.  177. 8359. 1027.   57.  177.]
+[0.7        0.7        0.7        0.79735683 0.79735683 0.79735683
+ 0.68141593 0.68141593 0.68141593 0.73714286 0.73714286 0.73714286
+ 0.75641026 0.75641026 0.75641026]
+[0.16554054 0.16554054 0.16554054 0.17075472 0.17075472 0.17075472
+ 0.16997792 0.16997792 0.16997792 0.12964824 0.12964824 0.12964824
+ 0.14700997 0.14700997 0.14700997]
+[0.26775956 0.26775956 0.26775956 0.28127428 0.28127428 0.28127428
+ 0.27208481 0.27208481 0.27208481 0.22051282 0.22051282 0.22051282
+ 0.24617524 0.24617524 0.24617524]
+AVG Recall:  0.734465174190097
+AVG Precision:  0.15658627808998477
+AVG F1 Score:  0.2575613427351889

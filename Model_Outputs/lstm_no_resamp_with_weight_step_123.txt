@@ -1,0 +1,50 @@
+####### Fold:  0
+####### Reading testing data
+####### Reading training data
+######## Before resampling, num Positives (train):  7585 / 369691
+######## Before resampling, num Positives (test):  1623 / 95703
+####### Data saved
+####### Model fitting
+####### Step:  1
+####### Model saved
+####### Model testing
+####### Threshold:  0.5
+[[93810   268]
+ [  802   821]]
+TPR:  0.5058533579790512
+Precision:  0.7539026629935721
+F1 score:  0.6054572271386431
+####### Threshold:  0.65
+[[93854   224]
+ [  822   801]]
+TPR:  0.49353049907578556
+Precision:  0.7814634146341464
+F1 score:  0.6049848942598187
+####### Threshold:  0.75
+[[93882   196]
+ [  848   775]]
+TPR:  0.47751078250154033
+Precision:  0.7981462409886715
+F1 score:  0.5975327679259831
+####### Step:  2
+####### Model saved
+####### Model testing
+####### Threshold:  0.5
+[[93633   444]
+ [  770   853]]
+TPR:  0.5255699322242761
+Precision:  0.6576715497301465
+F1 score:  0.5842465753424658
+####### Threshold:  0.65
+[[93698   379]
+ [  780   843]]
+TPR:  0.5194085027726433
+Precision:  0.6898527004909983
+F1 score:  0.5926186291739894
+####### Threshold:  0.75
+[[93727   350]
+ [  790   833]]
+TPR:  0.5132470733210105
+Precision:  0.7041420118343196
+F1 score:  0.593727726300784
+####### Step:  3
